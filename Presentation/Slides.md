@@ -1,6 +1,6 @@
 How to deal with email leaks
 ========================================================
-author: Alexandre Léchenet & Hervé Letoqueux
+author: Alexandre Léchenet & Hervé
 date: May 2017
 autosize: true
 
